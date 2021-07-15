@@ -1,0 +1,11 @@
+a:link{text-decoration: none !important;}
+a:visited{text-decoration: none !important;}
+a:hover{text-decoration: none !important;}
+a:focus{text-decoration: none !important;}
+
+a img{text-decoration: none !important; border: none !important;}
+
+body{background-color: #f3f2ef; color: #000000; font-family: 'Fira Sans', sans-serif;}
+
+.strong{font-weight: bold;}
+.iconeSino{width: 16px; height: auto;}
